@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "@ngneat/falso": "^2.27.0",
+    "@types/google.maps": "^3.48.1",
+    "random-location": "^1.1.3"
+  }
+}
